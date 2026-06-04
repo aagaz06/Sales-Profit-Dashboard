@@ -26,3 +26,45 @@ track monthly trends, evaluate regional and category performance, and identify t
 ## Dashboard
 
 <img width="1887" height="815" alt="Dashboard" src="https://github.com/user-attachments/assets/575c08e7-20a3-4859-9487-54a8fd84cc1a" />
+
+## Tools & Technologies
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Timeline Filters
+- INDEX-MATCH Functions
+- Conditional Formatting
+- Data Visualization
+- Business Intelligence Reporting
+
+## Business Questions Answered
+- Which region contributes the highest sales?
+- Which product category generates the most profit?
+- Which customer segment has the highest average sales?
+- Who are the top profit-generating customers?
+- How does profit trend across months?
+- What business actions can improve profitability?
+
+## Dashboard KPIs
+- Total Sales
+- Total Profit
+- Orders
+- Average Order Value (AOV)
+- Profit Margin
+
+## Skills Demonstrated
+- Data Cleaning & Transformation
+- Data Analysis
+- KPI Development
+- Dashboard Design
+- Business Intelligence
+- Data Storytelling
+- Excel Automation
+- Analytical Thinking
+- Executive Reporting
+
+## Project Outcome
+The dashboard provides a centralized view of business performance and
+helps decision-makers identify trends, opportunities, and areas requiring attention
+through interactive and visually driven reporting.
