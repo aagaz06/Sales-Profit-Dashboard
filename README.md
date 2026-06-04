@@ -25,3 +25,4 @@ track monthly trends, evaluate regional and category performance, and identify t
 
 ## Dashboard
 
+<img width="1887" height="815" alt="Dashboard" src="https://github.com/user-attachments/assets/575c08e7-20a3-4859-9487-54a8fd84cc1a" />
